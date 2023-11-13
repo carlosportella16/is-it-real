@@ -27,11 +27,11 @@ pip install torch torchvision Pillow
 ## Installation
 Clone this repository to your local machine:
 ```
-git clone [URL_of_This_Repo]
+git clone [https://github.com/carlosportella16/is-it-real.git]
 ```
 Navigate to the cloned directory:
 ```
-cd [Path_to_Repo]
+cd [/is-it-real]
 ```
 Add the images for the correct folders, and set the right path for the image to be tested.
 
